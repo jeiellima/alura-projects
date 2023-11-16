@@ -11,4 +11,4 @@ function adicionarFilme() {
       inputFilme.value = '';
       inputFilme.placeholder = 'Link inválido! Insira uma URL válida.';
     }
-  }
+}
